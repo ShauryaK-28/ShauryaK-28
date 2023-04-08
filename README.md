@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://4kwallpapers.com/images/walls/thumbs_3t/6484.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sportskeeda.com%2Fanime%2Fone-piece-will-luffy-die-end&psig=AOvVaw2-Q5cgBFDzwxM0L8UHPvyd&ust=1681035332143000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOD8yOWGmv4CFQAAAAAdAAAAABAE)"  />
+<img align="right" height="150" src="https://staticg.sportskeeda.com/editor/2022/11/a402f-16694231050443-1920.jpg"  />
 
 ###
 
