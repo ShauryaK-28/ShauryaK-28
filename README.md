@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://staticg.sportskeeda.com/editor/2022/11/a402f-16694231050443-1920.jpg"  />
+<img align="right" height="150" src="https://labs.openai.com/e/gX0Uz2AoFfFo7UNs71fc2cpt/dLmNLvw7vQ5J8opqRJw9lZa6"  />
 
 ###
 
