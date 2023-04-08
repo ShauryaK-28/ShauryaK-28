@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://labs.openai.com/e/gX0Uz2AoFfFo7UNs71fc2cpt/dLmNLvw7vQ5J8opqRJw9lZa6"  />
+<img align="right" height="150" src="https://openailabsprodscus.blob.core.windows.net/private/user-FkXR56QB3pTp32a0cGxJfKDg/generations/generation-dLmNLvw7vQ5J8opqRJw9lZa6/image.webp?st=2023-04-08T15%3A46%3A07Z&se=2023-04-08T17%3A44%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/webp&skoid=15f0b47b-a152-4599-9e98-9cb4a58269f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-04-08T13%3A21%3A45Z&ske=2023-04-15T13%3A21%3A45Z&sks=b&skv=2021-08-06&sig=yE6jzg317Ki70s%2Bm3ropD9ryL6MaYiPYaAtZ/fl5WKI%3D"  />
 
 ###
 
