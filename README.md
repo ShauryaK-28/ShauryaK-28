@@ -2,7 +2,7 @@
 [![shauryak28's GitHub | Stats](https://stats.quine.sh/shauryak28/github?theme=light)](https://quine.sh)
 [![shauryak28's GitHub | Topics Over Time](https://stats.quine.sh/shauryak28/topics-over-time?theme=light)](https://quine.sh)
 [![shauryak28's Web3 | Identity](https://stats.quine.sh/shauryak28/web3?theme=light)](https://quine.sh)
-<h2 align="left">Hi 👋! My name is Aahad Mev </h2>
+<h2 align="left">Hi 👋! My name is Shaurya Kumar </h2>
 <h3>I'm a Beginner WEB DEVELOPER, from NIT HAMIRPUR</h3>
 
 ###
